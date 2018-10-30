@@ -9,5 +9,5 @@
 ## UC Denver
 
 - GOAL_GRCh38+viral
-	GRCh38 bed and Picard interval list files created with CrossMap
-	GRCh38 fasta files from the Broad GATK bundle, with GOAL's viral genomes added
+	 - GRCh38 bed and Picard interval list files created with CrossMap
+	 - Fasta files for GOAL's viral genomes
