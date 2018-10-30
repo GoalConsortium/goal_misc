@@ -1,0 +1,22 @@
+@HD	VN:1.5
+@SQ	SN:chrBKV	LN:5153	M5:55cd23a1d73bd4aa8ddaa01f27ff4d99	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrEBV1	LN:171823	M5:6743bd63b3ff2b5b8985d8933c53290a	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrEBV2	LN:172764	M5:00c4f5fff7d304d6d3b83e80c0702fbe	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHHV8	LN:137969	M5:7c6a9b3bac1aeb9951318f3a3e86fe61	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV_ORFs	LN:7833	M5:f608a8a5efb43ff64cc76fc34f647ed3	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV6b	LN:7902	M5:58bdebc6b3bbaaec591dac97b069decd	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV11	LN:7931	M5:0f1a8744680836f77cf00effea59f272	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV16	LN:7905	M5:2d4e47ea8486e7e9f261954e6878a757	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV18	LN:7857	M5:086f6043d045878be2aeae9512599ef5	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV31	LN:7912	M5:a3eb8de75c9d108069fe180d1889e513	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV33	LN:7909	M5:5a63222eabf9f67c2d7fc26c9664f664	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV35	LN:7851	M5:c7b8fde36dcea3a7db54319a2d8c2d39	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV52	LN:7942	M5:6df5c5133e772ba7e861da135ade6442	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV56	LN:7866	M5:518b867dd08fb67fce37285c45b86dcd	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV58	LN:7824	M5:39897df45734491473ca926350e47b25	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPV59	LN:7896	M5:60b2cb4674c78e07b8d0fd1a874b718e	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHPyV7	LN:4952	M5:a7132f2a1283aaa5b2745fe8345357dd	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHTLV1	LN:8507	M5:76b1d23cc34dcf9dafd6f71815ade675	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrHTLV2	LN:8952	M5:d2f7de425705b6b0d0d2070dfc76e372	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrJCV	LN:5130	M5:5ed42d64e3853d4d2c41a83bdf71fbf9	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
+@SQ	SN:chrMCPyV	LN:5386	M5:f8e0adf6a08f4b0e60a7c58641738d49	UR:file:/mnt/hdd/resources/GOAL/viral_genomes/goal_viral_genomes.fasta
