@@ -1,5 +1,4 @@
 {
-    "brandi_trim.sample": "test",
     "brandi_trim.fastq1_gz": "brandi_trim_test/test_R1.fastq.gz",
     "brandi_trim.fastq2_gz": "brandi_trim_test/test_R1.fastq.gz"
 }
