@@ -20,7 +20,7 @@ workflow brandi_trim {
 
 task do_trim {
     input {
-        String docker_image = "docker.io/goalconsortium/trim_galore:v1"
+        String docker_image = "docker.io/goalconsortium/trim_galore:v0.4.1"
         File fastq1_gz
         File fastq2_gz
     }
