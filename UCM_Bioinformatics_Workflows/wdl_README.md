@@ -17,13 +17,13 @@ where DIRECTORY is a dir within the dx project, and "dx://" is a required prefac
 3. Either make a link to the downloaded ``dxWDL.jar`` or move to the same directory as the ``.wdl``
 4. Push the workflow to your project: <br/>
 ``java -jar dxWDL-v1.47.2.jar compile myWorkflow_modified.wdl -project [PROJECT] -inputs myWorkflow_modified.json`` <br/>
-where PROJECT is your dnanexus project. This will produce another json file myWorkflow_modified.dx.json which can be used with dnanexus. 
+where PROJECT is your dnanexus project. This will push the workflow to DNAnexus along with the applet for "brandi_trim." Thesea items are viewable via the web interface. Additionally, the compilation will produce another json file ``myWorkflow_modified.dx.json`` which can be used with dnanexus. 
 ##### TO MAKE AN UPDATE TO YOUR WDL FILE
 As far as I can tell at this point, to change your workflow, re-compile using the -force option. This is contrary to statements here https://github.com/dnanexus/dxWDL/blob/master/doc/ExpertOptions.md#recompilation but I found that the -force option will for sure push your edits to DNAnexus.
 
 #### RUN YOUR WORKFLOW
 ##### COMMAND LINE
-The workflow in the wdl script is defined as ``brandi_trim``. To run this workflow together with the items within the json file: <br\>
+The workflow in the wdl script is defined as ``brandi_trim``. To run this workflow together with items specified by the json file: <br/>
 ``dx run brandi_trim -f myWorkflow_modified.dx.json`` <br\>
 From here, you can monitor the job via the web interface. Addtionally, you will get an email with a success / error message.
 
