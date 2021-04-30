@@ -1,5 +1,7 @@
 # Goal Consortium
 
+[Software Repo Locations](software_repos.md)
+
 
 ## UTSW
 
